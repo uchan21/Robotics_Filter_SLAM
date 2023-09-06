@@ -1,1 +1,1 @@
-# Moving Average Filter example
+# Moving Average Filter Example
