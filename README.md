@@ -10,8 +10,5 @@ The Programming Language is ***Matlab, C++ or Python***.
 # Reference
 <figure>
     <img src="https://image.yes24.com/goods/1543741/XL">
-</figure>
-
-<figure>
-    <img src="https://image.yes24.com/goods/73621194/XL">
+    <img src="https://image.yes24.com/goods/73621194/XL" width="320" height="400">
 </figure>
